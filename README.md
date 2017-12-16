@@ -18,6 +18,8 @@ Using GPIO as BCM the below image is the layout for the pin numbers for connecti
 
 ![GPIO pins](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/images/gpio-numbers-pi2.png)
 
+Above image source [Rasperrypi](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/)
+
 For sensor 1 (enter) I used 23 and 24.
 
 For sensor 2 (exit) I used 25 and 8.
