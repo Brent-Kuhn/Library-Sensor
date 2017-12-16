@@ -24,6 +24,8 @@ For sensor 1 (enter) I used 23 and 24.
 
 For sensor 2 (exit) I used 25 and 8.
 
+Using the GPIO numbers you chose in the python script, set up your sensor as follows:
+
 ![Sensor Setup](https://www.modmypi.com/image/data/tutorials/hc-sr04/hc-sr04-tut-2.png)
 
 Above image source [ModMyPi](https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi)
