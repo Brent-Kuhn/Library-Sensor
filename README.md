@@ -16,7 +16,7 @@ Add the following line at the end of the file and save:
 
 Using GPIO as BCM the below image is the layout for the pin numbers for connecting the sensors and calling them in the python script.
 
-![GPIO](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/images/gpio-numbers-pi2.png)
+![GPIO](D:\Downloads\physical-pin-numbers.png)
 
 Above image source [Rasperrypi Website](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/)
 
